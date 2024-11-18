@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "3b2e",
+      "cityName": "Kandy",
+      "country": "Sri Lanka",
+      "date": "2024-10-16T11:06:36.345Z",
+      "notes": "",
+      "emoji": "LK",
+      "position": {
+        "lat": "7.287332644207625",
+        "lng": "80.63964843750001"
+      }
+    },
+    {
+      "id": "f992",
+      "cityName": "Cochin",
+      "country": "India",
+      "date": "2024-10-16T11:06:56.806Z",
+      "notes": "",
+      "emoji": "IN",
+      "position": {
+        "lat": "9.964243649034687",
+        "lng": "76.27258300781251"
+      }
+    }
+  ]
+}
